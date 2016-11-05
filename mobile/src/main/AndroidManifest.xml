@@ -26,7 +26,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".Options" />
-        <activity android:name=".ParaTransferi"></activity>
+        <activity android:name=".ParaTransferi" />
+        <activity android:name=".AlisverisSonucu"></activity>
     </application>
 
 </manifest>
